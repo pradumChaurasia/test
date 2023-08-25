@@ -1,5 +1,0 @@
-{{#user}}
-Name: Pradum Chaurasia
-Skills: HTML, CSS, JS, Python, React.js, Node.js, Express.js, MongoDB, Mongoose, Bootstrap, Material UI
-Email: pradum.19441@gmail.com
-{{/user}}
